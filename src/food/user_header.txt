@@ -1,0 +1,13 @@
+<div class="row">
+<div class="col-sm-4">
+                    <h1>ONLINE FOOD HUB</h1>
+                                  </div>
+                 <div class="col-sm-8">
+<ul>
+<li><b><anchor('home/open_home',"HOME");></b></li>
+<li><b><anchor('home/open_product',"PRODUCT");></b></li>
+<li><b><anchor('home/open_about',"CONTACT_US"); ></b></li>
+<li><b><anchor('',"LOGOUT");></b></li>
+</ul>
+</div>
+</div>

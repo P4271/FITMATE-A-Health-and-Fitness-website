@@ -1,0 +1,10 @@
+body {
+    background-image: url('C:\xamp\htdocs\food\wg1.webp');
+  }
+  .backgroundimg img{
+    width: 1500px;
+    height: 700px;
+    object-fit: :cover;
+    cursor:pointer;
+transition:0.2s ease;
+}
