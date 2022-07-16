@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FITMATE-A-Health-and-Fitness-website/static/css/main.852dd778.chunk.css",
+    "main.js": "/FITMATE-A-Health-and-Fitness-website/static/js/main.3bb78dcc.chunk.js",
+    "main.js.map": "/FITMATE-A-Health-and-Fitness-website/static/js/main.3bb78dcc.chunk.js.map",
+    "runtime-main.js": "/FITMATE-A-Health-and-Fitness-website/static/js/runtime-main.4abfcc85.js",
+    "runtime-main.js.map": "/FITMATE-A-Health-and-Fitness-website/static/js/runtime-main.4abfcc85.js.map",
+    "static/js/2.0e1e33c3.chunk.js": "/FITMATE-A-Health-and-Fitness-website/static/js/2.0e1e33c3.chunk.js",
+    "static/js/2.0e1e33c3.chunk.js.map": "/FITMATE-A-Health-and-Fitness-website/static/js/2.0e1e33c3.chunk.js.map",
+    "index.html": "/FITMATE-A-Health-and-Fitness-website/index.html",
+    "static/css/main.852dd778.chunk.css.map": "/FITMATE-A-Health-and-Fitness-website/static/css/main.852dd778.chunk.css.map",
+    "static/js/2.0e1e33c3.chunk.js.LICENSE.txt": "/FITMATE-A-Health-and-Fitness-website/static/js/2.0e1e33c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4abfcc85.js",
+    "static/js/2.0e1e33c3.chunk.js",
+    "static/css/main.852dd778.chunk.css",
+    "static/js/main.3bb78dcc.chunk.js"
+  ]
+}
